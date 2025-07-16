@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ClaudiaAlfieri/ClaudiaAlfieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,12 +22,21 @@ I'm Cláudia, Software developer from  São Paulo, Brasil, currently living in  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact)
 
-![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent)
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,js)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=github,figma,vscode)](https://skillicons.dev)
+
+
 
 ## 🚀 Sobre mim
-Desenvolvedor Front-end apaixonado por tecnologia, café e resolver problemas com código.
+
 
 - 🌱 Atualmente aprendendo **React e TypeScript**
 - 💼 Trabalhando com **JavaScript | HTML | CSS**
