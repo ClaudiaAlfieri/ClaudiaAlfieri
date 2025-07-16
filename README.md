@@ -30,7 +30,7 @@ Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> S
 
 ## 📫 Como me encontrar
 
-[![Linkedin: claudia-alfieri](https://img.shields.io/badge/-claudia-alfieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-alfieri/)](https://www.linkedin.com/in/claudia-alfieri/)
+[![Linkedin: claudia-alfieri](https://img.shields.io/badge/-claudia--alfieri-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-alfieri/)
 [![GitHub ClaudiaAlfieri](https://img.shields.io/github/followers/claudiaalfieri?label=follow&style=social)](https://github.com/claudiaalfieri)
 
 ## 🚀 Sobre mim
