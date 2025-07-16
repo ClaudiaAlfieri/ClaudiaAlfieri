@@ -30,13 +30,8 @@ Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> S
 
 ## 📫 Como me encontrar
 
-<p>
-  <a href="https://www.linkedin.com/in/claudia-alfieri/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-claudia-alfieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-alfieri/)](https://www.linkedin.com/in/claudia-alfieri/)
-[![GitHub Claudia](https://img.shields.io/github/followers/claudiaalfieri?label=follow&style=social)](https://github.com/claudiaalfieri)
+[![Linkedin: Claudia-alfieri](https://img.shields.io/badge/-claudia-alfieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-alfieri/)](https://www.linkedin.com/in/claudia-alfieri/)
+[![GitHub ClaudiaAlfieri](https://img.shields.io/github/followers/claudiaalfieri?label=follow&style=social)](https://github.com/claudiaalfieri)
 
 ## 🚀 Sobre mim
 
