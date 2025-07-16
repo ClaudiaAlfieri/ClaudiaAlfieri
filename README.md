@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> São Paulo, Brasil, currently living in <img src="https://flagcdn.com/w40/pt.png" width="20"/> Porto, Portugal.
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
-  <\a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
+
 
 ## 🛠️ Tecnologias e Ferramentas 💻
 
