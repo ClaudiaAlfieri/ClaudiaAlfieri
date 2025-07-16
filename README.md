@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # 💜 Hi, I'm Cláudia
-Software developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="16"/> São Paulo, Brasil, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="16"/> Porto, Portugal.
+
+Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> São Paulo, Brasil, currently living in <img src="https://flagcdn.com/w40/pt.png" width="20"/> Porto, Portugal.
+
 
 
 ## ⭐ GitHub Stats
