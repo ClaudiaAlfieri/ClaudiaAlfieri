@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # 👋 Welcome to my page!
 I'm Cláudia, Software developer from  São Paulo, Brasil, currently living in  Porto, Portugal.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact)
+
 ![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent)
 
 ## 🚀 Sobre mim
