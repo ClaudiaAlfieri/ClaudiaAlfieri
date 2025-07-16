@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
 -->
 
 # 💜 Hi, I'm Cláudia
@@ -20,7 +22,6 @@ Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> S
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/claudia-alfieri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
 </a>
 
@@ -37,7 +38,7 @@ Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> S
 
 - 🌱 I’m currently learning ** PHP **
 - 💼 I’m currently working with ** PHP | JavaScript | HTML | CSS**
-- 🎯 Em busca de novos desafios e oportunidades
+- 🎯 Seeking new challenges and opportunities.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
