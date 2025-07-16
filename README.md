@@ -20,8 +20,8 @@ I'm Cláudia, Software developer from  São Paulo, Brasil, currently living in  
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact)
 
