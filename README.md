@@ -24,21 +24,22 @@ Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> S
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
 </a>
 
-## 🛠️ Tecnologias e Ferramentas 💻
+## 🛠️ Languages and Tools 💻
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,github,vscode,figma,ai)](https://skillicons.dev)
 
-## 📫 Como me encontrar
+## 🔗 Connect with me
 
 [![Linkedin: claudia-alfieri](https://img.shields.io/badge/-claudia--alfieri-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-alfieri/)
 [![GitHub ClaudiaAlfieri](https://img.shields.io/github/followers/claudiaalfieri?label=follow&style=social)](https://github.com/claudiaalfieri)
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 🌱 Atualmente aprendendo ** PHP **
-- 💼 Trabalhando com ** PHP | JavaScript | HTML | CSS**
+- 🌱 I’m currently learning ** PHP **
+- 💼 I’m currently working with ** PHP | JavaScript | HTML | CSS**
 - 🎯 Em busca de novos desafios e oportunidades
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
 
 
