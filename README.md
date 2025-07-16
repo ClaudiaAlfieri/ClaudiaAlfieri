@@ -28,8 +28,8 @@ I'm Cláudia, Software developer from  São Paulo, Brasil, currently living in  
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,github,vscode,figma,ai)](https://skillicons.dev)
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/claudia-alfieri/)
-<p align="left">
+
+<p>
   <a href="https://www.linkedin.com/in/claudia-alfieri/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
