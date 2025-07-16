@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 # 💜 Hi, I'm Cláudia
-Software developer from 🇧🇷 São Paulo, Brasil, currently living in 🇵🇹 Porto, Portugal.
+Software developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="16"/> São Paulo, Brasil, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="16"/> Porto, Portugal.
+
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
