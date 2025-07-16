@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> São Paulo, Brasil, currently living in <img src="https://flagcdn.com/w40/pt.png" width="20"/> Porto, Portugal.
 
 
-
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
-
 
 ## 🛠️ Tecnologias e Ferramentas 💻
 
@@ -37,12 +35,13 @@ Software developer from <img src="https://flagcdn.com/w40/br.png" width="20"/> S
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-claudia-alfieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudia-alfieri/)](https://www.linkedin.com/in/claudia-alfieri/)
+[![GitHub Claudia](https://img.shields.io/github/followers/claudiaalfieri?label=follow&style=social)](https://github.com/claudiaalfieri)
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo **React e TypeScript**
-- 💼 Trabalhando com **JavaScript | HTML | CSS**
-- 📝 Escrevendo artigos sobre desenvolvimento em meu blog
+- 🌱 Atualmente aprendendo ** PHP **
+- 💼 Trabalhando com ** PHP | JavaScript | HTML | CSS**
 - 🎯 Em busca de novos desafios e oportunidades
 
 
