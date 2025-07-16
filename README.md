@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 # 👋 Welcome to my page!
 I'm Cláudia, Software developer from  São Paulo, Brasil, currently living in  Porto, Portugal.
 
+## ⭐ GitHub Stats
+<a href="https://github.com/eduardavieira-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri-dev&layout=compact&langs_count=6&theme=radical"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact)
 
 ![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent)
