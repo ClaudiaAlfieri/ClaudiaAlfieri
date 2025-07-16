@@ -27,7 +27,7 @@ I'm Cláudia, Software developer from  São Paulo, Brasil, currently living in  
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,js, mysql,github,figma,vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,js,mysql,github,figma,vscode,wasm)](https://skillicons.dev)
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/claudia-alfieri/)
