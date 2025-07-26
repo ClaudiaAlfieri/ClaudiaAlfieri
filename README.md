@@ -50,6 +50,8 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo"  />
+  <img width="10" />
 </div>
 
 ## 🔗 Connect with me
