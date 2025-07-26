@@ -27,9 +27,12 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,github,vscode,figma,ai)](https://skillicons.dev)
 
 ## 🔗 Connect with me
-
+<!--
 [![Linkedin: claudia-alfieri](https://img.shields.io/badge/-claudia--alfieri-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-alfieri/)
 [![GitHub ClaudiaAlfieri](https://img.shields.io/github/followers/claudiaalfieri?label=follow&style=social)](https://github.com/claudiaalfieri)
+-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/claudia-alfieri/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/claudiaalfieri)
 
 ## 🚀 About me
 
