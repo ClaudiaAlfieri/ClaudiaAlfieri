@@ -24,7 +24,7 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 
 ## 🛠️ Languages and Tools 💻
 
-<div align="center" style="line-height: 80px;">
+<div align="center">
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="10" />
@@ -50,6 +50,7 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
   <img width="10" />
+ <br><br>
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo"  />
   <img width="10" />
 </div>
