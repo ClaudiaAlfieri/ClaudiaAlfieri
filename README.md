@@ -24,11 +24,7 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 
 ## 🛠️ Languages and Tools 💻
 
-<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,mysql,github,vscode,figma,ai)](https://skillicons.dev)
-</div>
-  
-
 
 ## 🔗 Connect with me
 
