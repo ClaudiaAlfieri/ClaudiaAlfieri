@@ -24,7 +24,7 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 
 ## 🛠️ Languages and Tools 💻
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="10" />
