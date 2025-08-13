@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
+Badges:
+JS 1:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6816f6e8-744a-4583-84a8-6584f3fc95ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
 -->
@@ -54,8 +58,6 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo"  />
   <img width="10" />
 </div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6816f6e8-744a-4583-84a8-6584f3fc95ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🔗 Connect with me
 
