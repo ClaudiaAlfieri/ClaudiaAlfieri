@@ -55,6 +55,8 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
   <img width="10" />
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6816f6e8-744a-4583-84a8-6584f3fc95ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/claudia-alfieri/)
