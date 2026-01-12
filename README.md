@@ -26,8 +26,8 @@ JS 1:
 
 Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.png" width="20"/> currently living in Porto, Portugal <img src="https://flagcdn.com/w40/pt.png" width="20"/>.
 
-
-### 🛠️ Languages and Tools 💻
+---
+## 🛠️ Languages and Tools 💻
 
 <div align="center">
   <img width="10" />
@@ -58,18 +58,24 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo"  />
   <img width="10" />
-</div>
+</div> 
 
-### 🔗 Connect with me
+---
+
+## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/claudia-alfieri/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/claudiaalfieri)
 
-### 🚀 About me
+---
+
+## 🚀 About me
 
 - 🌱 I’m currently learning ** React **
 - 💼 I’m currently working with ** PHP | JavaScript | HTML | CSS**
 - 🎯 Seeking new challenges and opportunities.
+  
+  ---
 
 ![Snake animation](https://github.com/gcastroalves/gcastroalves/blob/output/github-contribution-grid-snake.svg)
 
