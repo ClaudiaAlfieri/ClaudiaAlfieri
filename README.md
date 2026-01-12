@@ -71,6 +71,8 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 - 💼 I’m currently working with ** PHP | JavaScript | HTML | CSS**
 - 🎯 Seeking new challenges and opportunities.
 
+![Snake animation](https://github.com/gcastroalves/gcastroalves/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
 
