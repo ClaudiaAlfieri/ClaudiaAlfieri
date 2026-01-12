@@ -15,16 +15,17 @@ JS 1:
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiaalfieri&show_icons=true&theme=transparent"/>
+ ## ⭐ GitHub Stats
+<a href="https://github.com/claudia-alfieri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
+</a>
+
 -->
 
 # 💜 Hi, I'm Cláudia
 
 Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.png" width="20"/> currently living in Porto, Portugal <img src="https://flagcdn.com/w40/pt.png" width="20"/>.
 
-## ⭐ GitHub Stats
-<a href="https://github.com/claudia-alfieri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaalfieri&layout=compact"/>
-</a>
 
 ## 🛠️ Languages and Tools 💻
 
@@ -66,7 +67,7 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 
 ## 🚀 About me
 
-- 🌱 I’m currently learning ** PHP **
+- 🌱 I’m currently learning ** React **
 - 💼 I’m currently working with ** PHP | JavaScript | HTML | CSS**
 - 🎯 Seeking new challenges and opportunities.
 
