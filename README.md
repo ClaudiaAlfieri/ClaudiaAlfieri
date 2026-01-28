@@ -45,11 +45,11 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   <img width="10" />
+  <br><br>
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="10" />
-  <br><br>
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
