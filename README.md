@@ -30,36 +30,9 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 ## 🛠️ Languages and Tools 💻
 
 <div align="center">
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="10" />
- <img src="https://skillicons.dev/icons?i=react" height="60" alt="react css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,python,react,cs,bootstrap,dotnet" height="60" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="adobe illustrator logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo"  />
-  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,github,visualstudio,figma,ai,wordpress,idea,tailwind,git" height="60" />
 </div> 
 
 
