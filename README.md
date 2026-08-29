@@ -46,7 +46,7 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 
 ## 🚀 About me
 
-- 🌱 I’m currently learning ** React **
+- 🌱 I’m currently learning ** Angular **
 - 💼 I’m currently working with ** React | PHP | Laravel | JavaScript | HTML | CSS **
 - 🎯 Seeking new challenges and opportunities.
   
