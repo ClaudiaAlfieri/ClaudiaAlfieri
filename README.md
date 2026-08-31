@@ -30,7 +30,7 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
 ## 🛠️ Languages and Tools 💻
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,python,react,java,cs,dotnet,docker,mongodb" height="60" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,python,react,angular,java,cs,dotnet,docker,mongodb" height="60" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,vscode,github,visualstudio,figma,ai,wordpress,idea,bootstrap,tailwind,git" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="48" height="48" />
