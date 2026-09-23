@@ -34,6 +34,10 @@ Software developer from São Paulo, Brasil <img src="https://flagcdn.com/w40/br.
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,vscode,github,visualstudio,figma,ai,wordpress,idea,bootstrap,tailwind,git,phpstorm" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="48" height="48" />
+ <br><br>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,postman" height="60" />
+  <img src="./assets/mendix.jpg" width="48" height="48" />
+  <img src="./assets/bruno.png" width="48" height="48" />
 </div>
 
 
